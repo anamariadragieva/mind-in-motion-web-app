@@ -7,7 +7,7 @@
 *Mind in Motion* is a web-based daily affirmation app designed to inspire and empower individuals with ADHD. The app displays a random affirmation each day from a curated set of messages organized by theme. Users can load a new affirmation by clicking a button or simply pressing the "Enter" key.
 
 ## Screenshot  
-![App Screenshot](mind-in-motion-web-app.png)
+![App Screenshot](assets/images/mind-in-motion-web-app.png)
 
 ## Features
 
